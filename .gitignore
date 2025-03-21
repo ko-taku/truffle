@@ -1,1 +1,13 @@
+# Node modules
+node_modules/
+
+# Hardhat or Truffle build, artifacts, and cache files
+build/
+artifacts/
+cache/
+
+# IDE and editor files (optional)
+.vscode/
+.idea/
+
 .env
